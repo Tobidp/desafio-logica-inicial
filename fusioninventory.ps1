@@ -6,7 +6,7 @@ param(
 )
 
 # Configuration values (edit as needed)
-$SetupLocation = "http://glpi.grupoesales.com.br/down"
+$SetupLocation = "https://glpi.grupoesales.com.br/down"
 $SetupOptions  = "/acceptlicense /runnow /server='http://glpi.grupoesales.com.br/plugins/fusioninventory/' /S"
 $VerboseLog    = $true
 
